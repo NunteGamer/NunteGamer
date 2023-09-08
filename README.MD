@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeastlyGhost/BeastlyGhost/master/resources/banner.png" width="800"/></a>
+  <img src="https://raw.githubusercontent.com/NunteGamer/NunteGamer/main/bannergthub.png" width="800"/></a>
   <h2 align="center">I'm Nunte. This is my profile.</h2>
 </p>
 
